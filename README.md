@@ -1,5 +1,3 @@
-# Tema 2 APD - Alexandra Bulgaru 331CD
-
 ## Introducere
 Tema 2 simuleaza functionalitatile de baza ale protocolului BitTorrent, folosind MPI si PThreads pentru a gestiona comunicatia si operatiile dintre mai multi clienti si un tracker centralizat.
 
